@@ -1,0 +1,6 @@
+# pandas==1.4.4
+# matplotlib==3.5.3
+# opencv-python==4.6.0.66
+# numpy==1.23.2
+ultralytics==8.0.147
+XlsxWriter==3.0.3
